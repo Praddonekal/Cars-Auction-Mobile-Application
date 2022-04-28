@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494625102506",
+    "project_id": "hotauc-c2c64",
+    "storage_bucket": "hotauc-c2c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494625102506:android:ee600a905e6408c25f0ed3",
+        "android_client_info": {
+          "package_name": "com.hotauc_reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494625102506-g50jhh2jcp7590a1o4ppbu2gm6fru3ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnGMdz11CsmSvsyu2YFcLyJdHrXiBd4MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494625102506-g50jhh2jcp7590a1o4ppbu2gm6fru3ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
